@@ -1,1 +1,1 @@
-https://partha-rottenpotatoes.herokuapp.com/movies
+https://partha-rottenpotatoes.herokuapp.com/
